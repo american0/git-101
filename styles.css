@@ -1,0 +1,9 @@
+body {
+  background-color: red;
+  text-align: center;
+  font-family: Helvetica;
+}
+
+#logo {
+  width: 100px;
+}
